@@ -1,69 +1,15 @@
-<a href="https://github.com/rkhan28"><img src="assets/header.svg" width="100%" alt="Rahmat Khan — curious by nature, an engineer in progress. Computer Engineering at York University, Toronto." /></a>
+# 💫 About Me:
+I’m Rahmat — an engineer who likes turning unnecessarily complicated ideas into things that actually work. I build AI systems, automation tools, and software products, usually because doing something manually twice already feels excessive.<br><br>About Me<br>🔭 I’m currently working on<br>AI agents, automation systems, and Onboardy — helping businesses automate repetitive work and turn more leads into customers.<br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source AI, developer tools, intelligent automation, and ambitious products that solve real problems.<br>🤝 I’m looking for help with<br>Scaling AI systems, production-grade agent architectures, and building products people genuinely want to use.<br>🌱 I’m currently learning<br>Agentic AI, LLM systems, RAG, real-time voice AI, system design, and whatever new technology makes last month’s stack look outdated.<br>💬 Ask me about<br>AI agents, automation, full-stack development, APIs, product ideas, or how to spend three days automating a five-minute task.<br>⚡ Fun fact<br>I’ll build an agent for days so it can do a task that takes five minutes. The ROI arrives eventually.
 
-<p align="center">
-  <a href="https://github.com/rkhan28/rahmat-portfolio">Portfolio source</a> &nbsp; / &nbsp;
-  <a href="https://github.com/rkhan28?tab=repositories">Repositories</a> &nbsp; / &nbsp;
-  <a href="mailto:rahmatkhan2001@hotmail.com">Get in touch</a>
-</p>
 
-I’m Rahmat, a computer engineering student at York University. I’m interested in the space between useful software and applied AI: how a system observes something, makes a decision, and gives someone a result they can actually inspect.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealrahmatkhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealrahmat15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahmatkhan2001@hotmail.com) 
 
-I build to learn, document the rough edges, and improve the parts that matter. I’m exploring junior software development and automation opportunities in Canada.
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rkhan28&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rkhan28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rkhan28&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-### 01 / Currently exploring
-
-<a href="https://github.com/rkhan28/volleyanalsysis"><img src="assets/volleyvision.svg" width="100%" alt="VolleyVision: an interactive field guide to volleyball AI. Geometry, detection, tracking, events and evidence." /></a>
-
-**VolleyVision — from a frame to a match.** An interactive learning project explaining court calibration, ball tracking, shot recognition and rally analysis. Includes a playable court illustration, eight explorable chapters, a detailed technical curriculum, and a Python reporting exercise.
-
-The tutorial is implemented; the actual vision pipeline is a documented roadmap. No trained-model results are claimed.
-
-[Open the interactive deployment (Vercel sign-in currently required) ↗](https://volleyvision-rkhan-s-projects.vercel.app)
-
-[Explore the repository ↗](https://github.com/rkhan28/volleyanalsysis) &nbsp; · &nbsp; [Read the curriculum ↗](https://github.com/rkhan28/volleyanalsysis/blob/main/docs/CURRICULUM.md)
-
-### 02 / Selected projects
-
-| Project | The problem I explored | What you can inspect |
-| :--- | :--- | :--- |
-| **[TTC Pulse ↗](https://github.com/rkhan28/ttcpulse)** | Making Toronto transit information easier to navigate | Feed integration, maps, service alerts, and an optional assistant; live-data limitations documented |
-| **[FinanceTracker ↗](https://github.com/rkhan28/FinanceTracker)** | Keeping everyday student spending understandable | Manual transactions, budgeting charts and browser-local persistence |
-| **[Netflix IMDb Filter ↗](https://github.com/rkhan28/netflixfilter)** | Narrowing visible titles while browsing | Chrome extension, OMDb lookups and user-configured filters |
-| **[PhishGuard ↗](https://github.com/rkhan28/phishguard)** | Making suspicious-message review more approachable | Sample reports and a deterministic keyword demo; no trained phishing model |
-
-### 03 / How I work
-
-<img src="assets/process.gif" width="100%" alt="Illustrated workflow: observe a user problem, build a small working system, check evidence and limitations, then refine from feedback." />
-
-<details>
-<summary><strong>Open the engineering notes</strong></summary>
-
-- **Start with a question.** What would make this useful to the person using it?
-- **Make the smallest complete path work.** Input, processing, output and a way to recover from failure.
-- **Separate demos from evidence.** Sample data is labelled; a planned feature is not described as shipped.
-- **Keep the project readable.** Setup instructions, meaningful commits, build checks and explicit limitations.
-
-The animation illustrates this process. It does not represent live activity, contribution counts or measured performance.
-
-</details>
-
-### 04 / The materials
-
-<img src="assets/source-map.svg" width="100%" alt="Source-byte snapshot across seven public app projects. TypeScript is the largest category, followed by JavaScript, CSS, HTML and Python. This is not a proficiency rating." />
-
-<details>
-<summary><strong>How this chart was calculated</strong></summary>
-
-A dated snapshot of source-file bytes across seven public app projects. It excludes dependency directories, generated build output, backend folders and lockfiles. TypeScript includes TSX; JavaScript includes JSX. It is a working-tree snapshot, not GitHub Linguist, and is not automatically refreshed.
-
-[View the exact counts and repository breakdown](assets/source-snapshot.json).
-
-</details>
-
----
-
-**Interested in the work, or have a useful critique?** [Let’s talk.](mailto:rahmatkhan2001@hotmail.com)
-
-<sub>Toronto, Canada · Learning in public · Clear claims, inspectable work.</sub>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
